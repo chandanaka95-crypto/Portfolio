@@ -1,0 +1,13 @@
+{
+  "name": "chandana-portfolio",
+  "version": "1.0.0",
+  "description": "Professional Personal Portfolio for CHANDANA K A",
+  "main": "index.html",
+  "scripts": {
+    "build": "node build.js",
+    "start": "python -m http.server 8080"
+  },
+  "keywords": ["portfolio", "resume", "student", "ise", "vtu", "web development"],
+  "author": "CHANDANA K A",
+  "license": "MIT"
+}
